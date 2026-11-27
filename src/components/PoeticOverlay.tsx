@@ -59,7 +59,7 @@ export function PoeticOverlay({
         <div
           aria-live="polite"
           className={`pointer-events-none fixed left-0 right-0 z-10 flex flex-col items-center justify-end px-6 text-center transition-all duration-300 ${
-            hudHidden ? 'bottom-10 pb-2' : 'bottom-[118px] sm:bottom-[104px]'
+            hudHidden ? 'bottom-6' : 'bottom-[112px] sm:bottom-[104px]'
           }`}
         >
           {/* Measured soft scrim strictly behind text for >= 4.5:1 contrast during bright firework frames */}
