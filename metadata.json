@@ -1,0 +1,6 @@
+{
+  "name": "岁华映彩 · 新春祈愿树",
+  "description": "沉浸式 3D 新中式红金祈愿树与 60 秒四幕电影级新春烟花贺岁演绎，支持点击燃放礼花、自由视角观赏与自定义祝福署名分享。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
